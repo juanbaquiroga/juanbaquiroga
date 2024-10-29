@@ -31,12 +31,6 @@ const juanba = {
 - **[LinkedIn](https://linkedin.com/in/juanbaquiroga)**
 - **[Portfolio](https://portfolio-juanbaquiroga.vercel.app/)**
 
-## 💼 Experience
-
-- **Front End Developer**, Artifact Argentina (Oct 2022 – Sep 2023)
-- **Front End Developer**, FirstPlug Argentina (Jan 2024 – Mar 2024)
-- **Support Desk**, Streambe Argentina (Aug 2023 – Oct 2024)
-
 ## 📊 some stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanbaquiroga&show_icons=true&theme=radical)
