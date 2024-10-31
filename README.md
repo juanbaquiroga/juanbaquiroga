@@ -29,7 +29,7 @@ const juanba = {
 
 - **[GitHub](https://github.com/juanbaquiroga)**
 - **[LinkedIn](https://linkedin.com/in/juanbaquiroga)**
-- **[Portfolio](https://portfolio-juanbaquiroga.vercel.app/)**
+- **[Portfolio](https://juanbaquiroga.vercel.app/)**
 
 ## 📊 some stats
 
