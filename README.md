@@ -2,7 +2,7 @@
 # 👋 Hi, I am Juan Bautista Quiroga
 I´m a Junior Full Stack Developer who is passionate about creating robust and efficient web solutions. I have a strong foundation in HTML, CSS, and JavaScript, and I have honed my skills with popular frameworks like React.js and Next.js. I am always looking for opportunities to learn and grow in the web development field.
 
-![Profile Views](https://komarev.com/ghpvc/?username=juanbaquiroga&color=black)
+![Profile Views](https://komarev.com/ghpvc/?username=juanbaquiroga&color=000000)
 ---
 
 ```javascript
