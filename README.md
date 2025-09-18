@@ -49,7 +49,7 @@ Algunos de mis proyectos más representativos que demuestran mis habilidades té
 
 ### 📈 Mis Estadísticas en GitHub
 
-[![GitHub Stats Dark](https://github-readme-stats.vercel.app/api?username=juanbaquiroga&show_icons=true&border_radius=20&theme=apprentice#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[GitHub Stats Dark](https://github-readme-stats.vercel.app/api?username=juanbaquiroga&show_icons=true&border_radius=20&theme=apprentice#gh-dark-mode-only)
 [![GitHub Stats Light](https://github-readme-stats.vercel.app/api?username=juanbaquiroga&show_icons=true&border_radius=20&theme=swift#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [![Top Langs Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=juanbaquiroga&size_weight=1&count_weight=0&border_radius=20&langs_count=7&theme=apprentice#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Langs Light](https://github-readme-stats.vercel.app/api/top-langs/?username=juanbaquiroga&size_weight=1&count_weight=0&border_radius=20&langs_count=7&theme=swift#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
